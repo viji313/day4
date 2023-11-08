@@ -7,7 +7,7 @@ public static void main(String[]args)
 	if(num>=18)
 	{
 		
-		System.out.println("is eligible");
+		System.out.println("Eligible success");
 		
 	}
 else {
